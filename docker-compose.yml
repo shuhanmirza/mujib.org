@@ -6,9 +6,9 @@ services:
       dockerfile: Dockerfile
     restart: unless-stopped
     environment:
-      VIRTUAL_HOST: crypto.shuhanmirza.com
+      VIRTUAL_HOST: mujib.org
       VIRTUAL_PORT: 8080
-      LETSENCRYPT_HOST: crypto.shuhanmirza.com
+      LETSENCRYPT_HOST: mujib.org
       LETSENCRYPT_EMAIL: shuhan.mirza@gmail.com
 networks:
   default:

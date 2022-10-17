@@ -1,0 +1,1202 @@
+<template>
+  <div>
+    <main class="svelte-uo038q">
+
+      <div class="content svelte-uo038q">
+        <main class="svelte-39il47"><img src="../../public/files/spinner.gif" id="spinner"
+                                         style="float: none; margin: 60px auto auto; display: none;">
+          <div class="article"><h1 class="svelte-39il47">Sheikh Mujibur Rahman</h1>
+            <div></div>
+
+            <table>
+              <tbody>
+              <tr>
+                <td colspan="2" style="text-align: center"><img
+                    src="../../public/files/Sheikh_Mujibur_Rahman_in_1950.jpg"
+                    id="info-image"></td>
+              </tr>
+              </tbody>
+              <thead>
+              <tr>
+                <th align="center"></th>
+                <th align="center"></th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                <td align="center"><strong>honorific-prefix</strong></td>
+                <td align="center">Bangabandhu, বঙ্গবন্ধু</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>name</strong></td>
+                <td align="center">Sheikh Mujibur Rahman</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>native_name</strong></td>
+                <td align="center">শেখ মুজিবুর রহমান</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>native_name_lang</strong></td>
+                <td align="center">bn</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>office</strong></td>
+                <td align="center">1st and 4th <a href="http://static.wiki/en/President_of_Bangladesh">President
+                  of Bangladesh</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>primeminister</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Tajuddin_Ahmad">Tajuddin Ahmad</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>vicepresident</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Syed_Nazrul_Islam">Syed Nazrul Islam</a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center"><strong>term_start</strong></td>
+                <td align="center">17 April 1971</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>term_end</strong></td>
+                <td align="center">12 January 1972</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>predecessor</strong></td>
+                <td align="center">Position established</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>successor</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Syed_Nazrul_Islam">Syed Nazrul Islam</a>
+                  (Acting)
+                </td>
+              </tr>
+              <tr>
+                <td align="center"><strong>primeminister2</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Muhammad_Mansur_Ali">Muhammad Mansur
+                  Ali</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>term_start2</strong></td>
+                <td align="center">25 January 1975</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>term_end2</strong></td>
+                <td align="center">15 August 1975</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>predecessor2</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Mohammad_Mohammadullah">Mohammad
+                  Mohammadullah</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>successor2</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Khondaker_Mostaq_Ahmad">Khondaker Mostaq
+                  Ahmad</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>office3</strong></td>
+                <td align="center">2nd <a href="http://static.wiki/en/Prime_Minister_of_Bangladesh">Prime
+                  Minister of Bangladesh</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>president3</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Abu_Sayeed_Chowdhury">Abu Sayeed
+                  Chowdhury</a>, <a href="http://static.wiki/en/Mohammad_Mohammadullah">Mohammad
+                  Mohammadullah</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>term_start3</strong></td>
+                <td align="center">12 January 1972</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>term_end3</strong></td>
+                <td align="center">24 January 1975</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>predecessor3</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Tajuddin_Ahmad">Tajuddin Ahmad</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>successor3</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Muhammad_Mansur_Ali">Muhammad Mansur
+                  Ali</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>constituency_mp4</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Dhaka-12">Dhaka-12</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>predecessor4</strong></td>
+                <td align="center"><em>Constituency Established</em></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>successor4</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Jahangir_Mohammad_Adel">Jahangir Mohammad
+                  Adel</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>term_start4</strong></td>
+                <td align="center">7 March 1972</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>term_end4</strong></td>
+                <td align="center">15 August 1975</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>birth_date</strong></td>
+                <td align="center">March 17, 1920</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>birth_place</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Tungipara_Upazila">Tungipara</a>, <a
+                    href="http://static.wiki/en/Bengal_Presidency">Bengal</a>, <a
+                    href="http://static.wiki/en/British_Raj">British India</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>death_date</strong></td>
+                <td align="center">August 15, 1975</td>
+              </tr>
+              <tr>
+                <td align="center"><strong>death_place</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Dhaka">Dhaka</a>, <a
+                    href="http://static.wiki/en/Bangladesh">Bangladesh</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>death_cause</strong></td>
+                <td align="center"><a
+                    href="http://static.wiki/en/Assassination_of_Sheikh_Mujibur_Rahman">Assassination</a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center"><strong>nationality</strong></td>
+                <td align="center"><a href="http://static.wiki/en/British_Indian">British Indian</a>
+                  (1920–1947), <a href="http://static.wiki/en/Pakistani">Pakistani</a> (1947–1971), <a
+                      href="http://static.wiki/en/Bangladeshi">Bangladeshi</a> (1971–1975)
+                </td>
+              </tr>
+              <tr>
+                <td align="center"><strong>party</strong></td>
+                <td align="center"><a href="http://static.wiki/en/BAKSAL">Bangladesh Krishak Sramik Awami
+                  League</a> (1975)
+                </td>
+              </tr>
+              <tr>
+                <td align="center"><strong>otherparty</strong></td>
+                <td align="center"><a href="http://static.wiki/en/All-India_Muslim_League">All-India Muslim
+                  League</a> (Before 1949), <a href="http://static.wiki/en/Bangladesh_Awami_League">Awami
+                  League</a> (1949–1975)
+                </td>
+              </tr>
+              <tr>
+                <td align="center"><strong>spouse</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Sheikh_Fazilatunnesa_Mujib">Sheikh
+                  Fazilatunnesa Mujib</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>mother</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Sayera_Khatun">Sayera Khatun</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>father</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Sheikh_Lutfur_Rahman">Sheikh Lutfur
+                  Rahman</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>relatives</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Sheikh%E2%80%93Wazed_family">Sheikh–Wazed
+                  family</a></td>
+              </tr>
+              <tr>
+                <td align="center"><strong>alma_mater</strong></td>
+                <td align="center"><a href="http://static.wiki/en/Maulana_Azad_College">Islamia College</a>,
+                  <a href="http://static.wiki/en/University_of_Dhaka">University of Dhaka</a></td>
+              </tr>
+              </tbody>
+            </table>
+            <p><strong>Sheikh Mujibur Rahman</strong> (শেখ মুজিবুর রহমান; 17 March 1920 – 15 August 1975),
+              shortened as <strong>Sheikh <strong>Mujib</strong></strong> or Mujib, was a Bangladeshi
+              politician and statesman. He is called the "<a href="http://static.wiki/en/Pater_Patriae">Father
+                of the Nation</a>" in Bangladesh. He served as the first <a
+                  href="http://static.wiki/en/President_of_Bangladesh">President of Bangladesh</a> and
+              later as the <a href="http://static.wiki/en/Prime_Minister_of_Bangladesh">Prime Minister of
+                Bangladesh</a> from 17 April 1971 until his assassination on 15 August 1975. He is
+              considered to be the driving force behind the independence of Bangladesh. He is popularly dubbed
+              with the title of "<strong>Bangabandhu</strong>" (Bôngobondhu "Friend of Bengal") by the people
+              of Bangladesh. He became a leading figure in and eventually the leader of the <a
+                  href="http://static.wiki/en/Awami_League">Awami League</a>, founded in 1949 as an <a
+                  href="http://static.wiki/en/East_Pakistan">East <a
+                  href="http://static.wiki/en/Pakistan">Pakistan</a></a>–based political party in
+              Pakistan. Mujib is credited as an important figure in efforts to gain political autonomy for
+              East Pakistan and later as the central figure behind the Bangladesh Liberation Movement and the
+              <a href="http://static.wiki/en/Bangladesh_Liberation_War">Bangladesh Liberation War</a> in 1971.
+              Thus, he is regarded as "Jatir Janak" or "Jatir Pita" (Jatir Jônok or Jatir Pita, both meaning "<a
+                  href="http://static.wiki/en/Father_of_the_Nation">Father of the Nation</a>") of
+              Bangladesh. His daughter <a href="http://static.wiki/en/Sheikh_Hasina">Sheikh Hasina</a> is the
+              current leader of the Awami League and also the Prime Minister of Bangladesh.</p>
+            <p>An initial advocate of <a href="http://static.wiki/en/Democracy_in_Bangladesh">democracy</a> and
+              <a href="http://static.wiki/en/Socialism_in_Bangladesh">socialism</a>, Mujib rose to the ranks
+              of the Awami League and East Pakistani politics as a charismatic and forceful orator. He became
+              popular for his opposition to the ethnic and institutional discrimination of Bengalis in
+              Pakistan, who comprised the majority of the state's population. At the heightening of sectional
+              tensions, he outlined a <a href="http://static.wiki/en/Six_point_movement">six-point autonomy
+                plan</a> and was jailed by the regime of Field Marshal Ayub Khan for treason. Mujib led the
+              Awami League to win the <a href="http://static.wiki/en/1970_Pakistani_general_election">first
+                democratic election of Pakistan</a> in 1970. Despite gaining a majority, the League was not
+              invited by the ruling military junta to form a government. As civil disobedience erupted across
+              East Pakistan, Mujib indirectly announced independence of Bangladesh during a <a
+                  href="http://static.wiki/en/7_March_Speech_of_Bangabandhu">landmark speech on 7 March
+                1971</a>. On 26 March 1971, the Pakistan Army responded to the mass protests with <a
+                  href="http://static.wiki/en/Operation_Searchlight">Operation Searchlight</a>, in which
+              Prime Minister–elect Mujib was arrested and flown to solitary confinement in West Pakistan,
+              while Bengali civilians, students, intellectuals, politicians and military defectors were
+              murdered as part of the <a href="http://static.wiki/en/1971_Bangladesh_genocide">1971 Bangladesh
+                genocide</a>. During Mujib's absence, many Bengalis joined the <a
+                  href="http://static.wiki/en/Mukti_Bahini">Mukti Bahini</a> and, helped by the <a
+                  href="http://static.wiki/en/Indian_Armed_Forces">Indian Armed Forces</a>, defeated the
+              <a href="http://static.wiki/en/Pakistan_Armed_Forces">Pakistan Armed Forces</a> during the
+              Bangladesh Liberation War. After Bangladesh's independence, Mujib was released from Pakistani
+              custody due to international pressure and returned to Dhaka in January 1972 after a short visit
+              to Britain and India.</p>
+            <p>Mujib became the Prime Minister of Bangladesh under a parliamentary system adopted by the new
+              country. He charged the provisional parliament to write a new <a
+                  href="http://static.wiki/en/Constitution_of_Bangladesh">constitution</a> proclaiming the
+              four fundamental principles of "nationalism, secularism, democracy, and socialism", which
+              reflect his political views collectively known as <a href="http://static.wiki/en/Mujibism">Mujibism</a>.
+              The Awami League won a huge mandate in the country's first general election in 1973. However,
+              Mujib faced challenges of rampant unemployment, poverty and corruption, as well as the <a
+                  href="http://static.wiki/en/Bangladesh_famine_of_1974">Bangladesh famine of 1974</a>.
+              The government was criticized for denying constitutional recognition to indigenous minorities
+              and human rights violations by its security forces, notably the National Defence Force or <a
+                  href="http://static.wiki/en/Jatiya_Rakkhi_Bahini">Jatiya Rakkhi Bahini</a> paramilitary.
+              Amid rising political agitation, Mujib initiated <a href="http://static.wiki/en/One_party_rule">one
+                party</a> socialist rule in January 1975. Six months later, <a
+                  href="http://static.wiki/en/Assassination_of_Sheikh_Mujibur_Rahman">he and most of his
+                family were assassinated</a> by renegade army officers during <a
+                  href="http://static.wiki/en/15_August_1975_Bangladesh_coup_d&#39;%C3%A9tat">a coup</a>.
+              A martial law government was subsequently established. In a 2004 BBC poll, Mujib was voted the
+              <a href="http://static.wiki/en/Greatest_Bengali_of_all_time"><em>Greatest Bengali of all
+                time</em></a>.</p>
+            <nav class="svelte-39il47"><strong>Contents</strong>
+              <ul class="svelte-39il47">
+                <li>1 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Early_life_and_education"
+                         class="svelte-39il47">Early life and education</a></li>
+              </ul>
+              <ul class="svelte-39il47">
+                <li>2 <a
+                    href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Political_activism_in_British_India"
+                    class="svelte-39il47">Political activism in British India</a>
+                  <ul class="svelte-39il47">
+                    <li>2.1 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Early_political_career"
+                               class="svelte-39il47">Early political career</a></li>
+                    <li>2.2 <a
+                        href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Bengali_language_movement"
+                        class="svelte-39il47">Bengali language movement</a></li>
+                    <li>2.3 <a
+                        href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Founding_of_the_Awami_League"
+                        class="svelte-39il47">Founding of the Awami League</a></li>
+                    <li>2.4 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Six_point_movement"
+                               class="svelte-39il47">Six point movement</a></li>
+                    <li>2.5 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Anti-Ayub_movement"
+                               class="svelte-39il47">Anti-Ayub movement</a></li>
+                    <li>2.6 <a
+                        href="http://static.wiki/en/Sheikh_Mujibur_Rahman#1970_elections_and_civil_disobedience"
+                        class="svelte-39il47">1970 elections and civil disobedience</a></li>
+                  </ul>
+                </li>
+              </ul>
+              <ul class="svelte-39il47">
+                <li>3 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Establishment_of_Bangladesh"
+                         class="svelte-39il47">Establishment of Bangladesh</a>
+                  <ul class="svelte-39il47">
+                    <li>3.1 <a
+                        href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Struggle_for_national_reconstruction"
+                        class="svelte-39il47">Struggle for national reconstruction</a></li>
+                    <li>3.2 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Economic_policies"
+                               class="svelte-39il47">Economic policies</a></li>
+                    <li>3.3 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Foreign_policy"
+                               class="svelte-39il47">Foreign policy</a></li>
+                    <li>3.4 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Left_wing_insurgency"
+                               class="svelte-39il47">Left wing insurgency</a></li>
+                    <li>3.5 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#BAKSAL"
+                               class="svelte-39il47">BAKSAL</a></li>
+                  </ul>
+                </li>
+              </ul>
+              <ul class="svelte-39il47">
+                <li>4 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Assassination"
+                         class="svelte-39il47">Assassination</a></li>
+              </ul>
+              <ul class="svelte-39il47">
+                <li>5 <a
+                    href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Personal_life,_family,_and_relatives"
+                    class="svelte-39il47">Personal life, family, and relatives</a>
+                  <ul class="svelte-39il47">
+                    <li>5.1 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Bangladesh"
+                               class="svelte-39il47">Bangladesh</a></li>
+                    <li>5.2 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Worldwide"
+                               class="svelte-39il47">Worldwide</a></li>
+                  </ul>
+                </li>
+              </ul>
+              <ul class="svelte-39il47">
+                <li>6 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Bibliography"
+                         class="svelte-39il47">Bibliography</a></li>
+              </ul>
+              <ul class="svelte-39il47">
+                <li>7 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Awards" class="svelte-39il47">Awards</a>
+                </li>
+              </ul>
+              <ul class="svelte-39il47">
+                <li>8 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#Portrayals"
+                         class="svelte-39il47">Portrayals</a></li>
+              </ul>
+              <ul class="svelte-39il47">
+                <li>9 <a href="http://static.wiki/en/Sheikh_Mujibur_Rahman#External_links"
+                         class="svelte-39il47">External links</a></li>
+              </ul>
+            </nav>
+            <h2 class="svelte-13e8sj1" id="Early_life_and_education">Early life and education</h2>
+            <p>
+            <div class="svelte-za6bc3"><img
+                src="../../public/files/House_of_Bangabandhu_Tungipara.jpg"
+                alt="House of Bangabandhu Tungipara" class="svelte-za6bc3">
+              <caption class="svelte-za6bc3"><p>The house where Mujib was born in Tungipara</p></caption>
+            </div>
+            </p>
+            <p>Mujib was born in <a href="http://static.wiki/en/Tungipara_Upazila">Tungipara</a>, a village
+              in <a href="http://static.wiki/en/Gopalganj_District_(Bangladesh)">Gopalganj District</a> in the
+              province of Bengal in British India, to <a href="http://static.wiki/en/Sheikh_Lutfur_Rahman">Sheikh
+                Lutfur Rahman</a>, a serestadar (court clerk) of Gopalganj civil court, and his wife <a
+                  href="http://static.wiki/en/Sayera_Khatun">Sheikh Sayera Khatun</a>. He was born into a
+              <a href="http://static.wiki/en/Bengali_Muslim">Bengali Muslim</a> family as the third child in a
+              family of four daughters and two sons. His parents used to adoringly call him "Khoka".</p>
+            <p>In 1929, Mujib entered into class three at Gopalganj Public School, and two years later, class
+              four at Madaripur Islamia High School. From very early age Mujib showed a potential of
+              leadership. His parents noted in an interview that at a young age, he organized a student
+              protest in his school for the removal of an inept principal. Mujib withdrew from school in 1934
+              to undergo eye surgery, and returned to school only after four years, owing to the severity of
+              the surgery and slow recovery.</p>
+            <p>Later, he passed his Matriculation from Gopalganj Missionary School in 1942, Intermediate of Arts
+              from Islamia College (now <a href="http://static.wiki/en/Maulana_Azad_College">Maulana Azad
+                College</a>) in 1944 and BA from the same college in 1947. After the partition of India, he
+              was admitted into the <a href="http://static.wiki/en/University_of_Dhaka">University of
+                Dhaka</a> to study law but did not complete the course because he was expelled from the
+              University in early 1949 on the charge of 'inciting the fourth-class employees' in their
+              agitation against the University authority's indifference towards their legitimate demands.
+              After 61 years, in 2010, the expulsion was withdrawn as unjust and undemocratic.</p>
+            <h2 class="svelte-13e8sj1" id="Political_activism_in_British_India">Political activism in British
+              India</h2>
+            <p>
+            <div class="svelte-za6bc3"><img src="../../public/files/Mujib-Suhra.gif"
+                                            alt="Mujib-Suhra" class="svelte-za6bc3">
+              <caption class="svelte-za6bc3"><p>Mujib (right) with Huseyn Shaheed Suhrawardy in 1949</p>
+              </caption>
+            </div>
+            </p><p>Mujib became politically active when he joined the <a
+                href="http://static.wiki/en/All_India_Muslim_Students_Federation">All India Muslim Students
+              Federation</a> in 1940.</p>
+            <p>He joined the <a href="http://static.wiki/en/All_India_Muslim_League">Bengal Muslim League</a> in
+              1943. During this period, Mujib worked actively for the League's cause of a separate <a
+                  href="http://static.wiki/en/Muslim">Muslim</a> state of Pakistan, and in 1946 he went on
+              to become general secretary of the Islamia College Students Union. M. Bhaskaran Nair describes
+              that Mujib "emerged as the most powerful man in the party" because of his proximity to <a
+                  href="http://static.wiki/en/Huseyn_Shaheed_Suhrawardy">Huseyn Shaheed Suhrawardy</a>.
+            </p>
+            <p>After obtaining his BA degree in 1947, Mujib was one of the Muslim politicians working under
+              Suhrawardy during the <a href="http://static.wiki/en/Direct_Action_Day">communal violence</a>
+              that broke out in Calcutta, in 1946, just before the <a
+                  href="http://static.wiki/en/partition_of_India">partition of India</a>.</p>
+            <h3 id="Early_political_career">Early political career</h3>
+            <p>After the <a href="http://static.wiki/en/Partition_of_India">Partition of India</a>, Mujib chose
+              to stay in the newly created Pakistan. On his return to what became known as East Pakistan, he
+              enrolled in the University of Dhaka to study law and founded the <a
+                  href="http://static.wiki/en/East_Pakistan_Muslim_Students&#39;_League">East Pakistan
+                Muslim Students' League</a>. He became one of the most prominent student political leaders
+              in the province. During these years, Mujib developed an affinity for socialism as the solution
+              to mass poverty, unemployment, and poor living conditions.</p>
+            <h3 id="Bengali_language_movement">Bengali language movement</h3>
+            <p>
+            <div class="svelte-za6bc3"><img
+                src="../../public/files/Rally_on_21Feb1954_Abdul_Hamid_and_Bangabandhu.jpg"
+                alt="Rally on 21Feb1954 Abdul Hamid and Bangabandhu" class="svelte-za6bc3">
+              <caption class="svelte-za6bc3"><p>left</p></caption>
+            </div>
+            </p><p>Following the declaration of <a href="http://static.wiki/en/Muhammad_Ali_Jinnah">Muhammad Ali
+              Jinnah</a> on 21 March 1948, that the people of East Bengal would have to adopt <a
+                href="http://static.wiki/en/Urdu">Urdu</a> as the state language, protests broke out amongst
+              the population. Mujib immediately decided to start a movement against this former planned
+              decision of the <a href="http://static.wiki/en/All-India_Muslim_League">Muslim League</a>. In
+              the same year on 2 March a conference was held at Dhaka University's Fazlul Haq Muslim Hall,
+              with leaders of different political parties. In this conference, discussions about the movement
+              against the Muslim League were discussed. From here on, the decision of the constitution of the
+              All-party Parliamentary Council was decided. The strike was celebrated in Dhaka on 11 March
+              1948, at the direction of this council. During the strike, some other political activists,
+              including Mujibur, were arrested in front of the secretariat building. But due to pressure from
+              the student protest, Mujib and other student leaders were released on 15 March. On the occasion
+              of their release the <a href="http://static.wiki/en/Rastrabhasa_Sangram_Parishad">Rastrabhasa
+                Sangram Parishad</a> (National Language Action Committee) arranged a rally which took place
+              at Dhaka University. The police blocked this rally. In protesting police activities Mujib
+              immediately announced a nationwide student strike on 17 March 1948. On 19 March, he organized a
+              movement aimed at securing the rights of the fourth class employees of Dhaka University. On 11
+              September 1948 he was again arrested</p>
+            <p>On 21 January 1949, Mujib was released from prison. Out of jail, he again became involved in the
+              demand for the demand of the fourth class employees, for which he was fired from the university.
+              But he refrained from acquiring these fines as illegal. In continuation of this, on 26 April,
+              Muslim League-backed candidate Shamsul Haq won a by-election in Tangail. Mujib went on <a
+                  href="http://static.wiki/en/hunger_strike">hunger strike</a> in front of <a
+                  href="http://static.wiki/en/Vice_Chancellor">Vice Chancellor</a>'s residence for the
+              success of his movement, for which he was again arrested. At that time he was expelled from
+              Dhaka University. He was accused of leading the movement of the fourth-class workers' rights in
+              the university. On 23 June, Suhrawardy and Maulana Bhasani formed East Pakistan Awami Muslim
+              League. After the formation, Mujib left the Muslim League and joined this new team. He was
+              elected joint general secretary of party East Pakistan. He was released from prison in late June
+              and joined the movement against the food crisis. In September of that year he was temporarily
+              detained for violating Section 144 but was released immediately.</p>
+            <p>In early January 1950, the Awami Muslim League held an anti-famine procession in Dhaka on the
+              occasion of the arrival of Pakistan's Prime Minister <a
+                  href="http://static.wiki/en/Liaquat_Ali_Khan">Liaquat Ali Khan</a> in East Pakistan.
+              Mujib was arrested this time because of his leadership. He was imprisoned for two years. On 26
+              January 1952, Pakistan's Prime Minister <a href="http://static.wiki/en/Khwaja_Nazimuddin">Khwaja
+                Nazimuddin</a> announced that Urdu would be the only state language of Pakistan. In spite of
+              being kept in jail after this announcement, Mujib played a key role in organizing protests by
+              issuing instructions from jail to the state <a
+                  href="http://static.wiki/en/Bengali_language_movement">Bengali language movement</a>.
+              After this it was decided to observe 21 February as the day of recognition for state language.
+              At the same time Mujib decided to observe the fast on 14 February from jail. His fasting lasted
+              13 days. On 26 February, he was released from jail.</p>
+            <h3 id="Founding_of_the_Awami_League">Founding of the Awami League</h3>
+            <p>Mujib left the Muslim League to join <a href="http://static.wiki/en/Maulana_Bhashani">Maulana
+              Bhashani</a> and <a href="http://static.wiki/en/Yar_Mohammad_Khan">Yar Mohammad Khan</a> in the
+              formation of the <a href="http://static.wiki/en/Bangladesh_Awami_League">Awami Muslim League</a>,
+              the predecessor of the Awami League. Maulana Bhashani was elected as president while Yar
+              Mohammad Khan was the treasurer. He was elected joint secretary of its East Bengal unit in 1949.
+              While Suhrawardy worked to build a larger coalition of East Bengali and socialist parties, Mujib
+              focused on expanding the grass-roots organization. In 1953, he was made the party's general
+              secretary, and elected to the <a href="http://static.wiki/en/East_Bengal_Legislative_Assembly">East
+                Bengal Legislative Assembly</a> on a <a
+                  href="http://static.wiki/en/United_Front_(East_Pakistan)">United Front</a> coalition
+              ticket in 1954. Serving briefly as the minister for agriculture during A. K. Fazlul Huq's
+              government, Mujib was briefly arrested for organizing a protest of the central government's
+              decision to dismiss the United Front ministry.</p>
+            <p>He was elected to the second <a href="http://static.wiki/en/Constituent_Assembly_of_Pakistan">Constituent
+              Assembly of Pakistan</a> and served from 1955 to 1958. The government proposed to dissolve the
+              <a href="http://static.wiki/en/Historical_regions_of_Pakistan">provinces</a> in favour of an <a
+                  href="http://static.wiki/en/One_Unit">amalgamation</a> of the western provinces of the
+              Dominion of Pakistan in a plan called One Unit; at the same time the central government would be
+              strengthened. Under One Unit, the western provinces were merged as <a
+                  href="http://static.wiki/en/West_Pakistan">West Pakistan</a> during the creation of the
+              Islamic Republic of Pakistan in 1956. That year East Bengal was renamed as <a
+                  href="http://static.wiki/en/East_Pakistan">East Pakistan</a> as part of One Unit at the
+              same time. Mujib demanded that the Bengali people's ethnic identity be respected and that a
+              popular verdict should decide the question of naming and of official language:</p>
+            <p>Sir [President of the Constituent Assembly], you will see that they want to place the word "East
+              Pakistan" instead of "East Bengal." We had demanded so many times that you should use Bengal
+              instead of Pakistan. The word "Bengal" has a history, has a tradition of its own. You can change
+              it only after the people have been consulted. So far as the question of One Unit is concerned it
+              can come in the Constitution. Why do you want it to be taken up just now? What about the state
+              language, Bengali? We will be prepared to consider one-unit with all these things. So I appeal
+              to my friends on that side to allow the people to give their verdict in any way, in the form of
+              referendum or in the form of plebiscite.</p>
+            <p>In 1956, Mujib entered a second coalition government as minister of industries, commerce, labour,
+              anti-corruption and village aid. He resigned in 1957 to work full-time for the party
+              organisation.</p>
+            <p>In 1958 General <a href="http://static.wiki/en/Ayub_Khan_(Field_Marshal)">Ayub Khan</a> suspended
+              the <a href="http://static.wiki/en/Constitution_of_Pakistan">constitution</a> and imposed <a
+                  href="http://static.wiki/en/martial_law">martial law</a>. Mujib was arrested for
+              organizing resistance and imprisoned till 1961. After his release Mujib started organising an
+              underground political body called the <a
+                  href="http://static.wiki/en/Swadhin_Bangal_Biplobi_Parishad">Swadhin Bangal Biplobi
+                Parishad</a> (<em>Free Bangla Revolutionary Council</em>), comprising student leaders, to
+              oppose the regime of Ayub Khan. They worked for increased political power for Bengalis and the
+              independence of East Pakistan. He was briefly arrested again in 1962 for organizing protests.
+            </p>
+            <h3 id="Six_point_movement">Six point movement</h3>
+            <p>
+            <div class="svelte-za6bc3"><img
+                src="../../public/files/Sheikh_Mujibur_Rahman_Announcing_6_Points_At_Lahore.jpg"
+                alt="Sheikh Mujibur Rahman Announcing 6 Points At Lahore" class="svelte-za6bc3">
+              <caption class="svelte-za6bc3"><p>Six Points in <a
+                  href="http://static.wiki/en/Lahore">Lahore</a>, 1966</p></caption>
+            </div>
+            </p>
+            <ul>
+              <li>
+                <ol start="1">
+                  <li>The constitution should provide for a Federation of Pakistan in its true sense on
+                    the Lahore Resolution and the parliamentary form of government with supremacy of a
+                    legislature directly elected on the basis of the universal adult franchise.
+                  </li>
+                </ol>
+              </li>
+              <li>
+                <ol start="2">
+                  <li>The federal government should deal with only two subjects: defense and foreign
+                    affairs, and all other residuary subjects shall be vested in the federating states.
+                  </li>
+                </ol>
+              </li>
+              <li>
+                <ol start="3">
+                  <li>Two separate, but freely convertible currencies for two wings should be introduced;
+                    or if this is not feasible, there should be one currency for the whole country, but
+                    effective constitutional provisions should be introduced to stop the flight of
+                    capital from East to West Pakistan. Furthermore, a separate banking reserve should
+                    be established and separate fiscal and monetary policy be adopted for East Pakistan.
+                  </li>
+                </ol>
+              </li>
+              <li>
+                <ol start="4">
+                  <li>The power of taxation and revenue collection shall be vested in the federating units
+                    and the federal center will have no such power. The Federation will be entitled to a
+                    share in the state taxes to meet its expenditures.
+                  </li>
+                </ol>
+              </li>
+              <li>
+                <ol start="5">
+                  <li>There should be two separate accounts for the foreign exchange earnings of the two
+                    wings; the foreign exchange requirements of the federal government should be met by
+                    the two wings equally or in a ratio to be fixed; indigenous products should move
+                    free of duty between the two wings, and the constitution should empower the units to
+                    establish trade links with foreign countries.
+                  </li>
+                </ol>
+              </li>
+              <li>
+                <ol start="6">
+                  <li>East Pakistan should have a separate militia or paramilitary forces.</li>
+                </ol>
+              </li>
+            </ul>
+            <p>Following Suhrawardy's death in 1963, Mujib came to head the Awami League, which became one of
+              the largest political parties in Pakistan. The party had dropped the word "Muslim" from its name
+              in a shift towards <a href="http://static.wiki/en/secularism">secularism</a> and a broader
+              appeal to non-Muslim communities. Mujib was one of the key leaders to rally opposition to
+              President Ayub Khan's <em>Basic Democracies</em> plan, the imposition of martial law and the
+              one-unit scheme, which centralized power and merged the provinces. Working with other political
+              parties, he supported opposition candidate <a href="http://static.wiki/en/Fatima_Jinnah">Fatima
+                Jinnah</a> against Ayub Khan in the 1964 <a
+                  href="http://static.wiki/en/Elections_in_Pakistan">election</a>. Mujib was arrested two
+              weeks before the election, charged with <a href="http://static.wiki/en/sedition">sedition</a>
+              and jailed for a year. In these years, there was rising discontent in East Pakistan over the
+              atrocities committed by the <a href="http://static.wiki/en/Pakistani_Armed_Forces">Pakistani
+                Armed Forces</a> against Bengalis, and the neglect of the issues and needs of East Pakistan
+              by the ruling regime. Despite forming a majority of the population, Bengalis were poorly
+              represented in Pakistan's civil services, police and military. There were also conflicts between
+              the allocation of revenues and taxation. The 1965 war between India and Pakistan also revealed
+              the markable vulnerability of East Pakistan compared to West Pakistan.</p>
+            <p>Unrest over continuing denial of democracy spread across Pakistan and Mujib intensified his
+              opposition to the disbandment of provinces. In 1966, Mujib proclaimed a 6-point plan titled <em>Our
+                Charter of Survival</em> at a national conference of opposition political parties at <a
+                  href="http://static.wiki/en/Lahore">Lahore</a>, in which he demanded self-government and
+              considerable political, economic and defence autonomy for East Pakistan in a Pakistani
+              federation with a weak central government. According to his plan:</p>
+            <p>Mujib's points catalysed public support across East Pakistan, launching what some historians have
+              termed the <a href="http://static.wiki/en/six_point_movement"><em>6-point movement</em></a> –
+              recognized as the definitive gambit for autonomy and rights of Bengalis in Pakistan. Mujib
+              obtained the broad support of Bengalis, including the <a
+                  href="http://static.wiki/en/Hinduism_in_Pakistan">Hindu populace</a>, and other
+              religious communities in East Pakistan. However, his demands were considered radical in West
+              Pakistan and interpreted as thinly veiled <a
+                  href="http://static.wiki/en/separatism">separatism</a>. The proposals alienated West
+              Pakistani people and politicians, as well as non-Bengalis and Muslim fundamentalists in East
+              Pakistan.</p>
+            <h3 id="Anti-Ayub_movement">Anti-Ayub movement</h3>
+            <p>Mujib was arrested by the Pakistan Army and after two years in jail, an official sedition trial
+              in a military court opened. Widely known as the <a
+                  href="http://static.wiki/en/Agartala_Conspiracy_Case">Agartala Conspiracy Case</a>,
+              Mujib and 34 Bengali military officers were accused by the government of colluding with Indian
+              government agents in a scheme to divide Pakistan and threaten its unity, order and national
+              security. The plot was alleged to have been planned in the city of <a
+                  href="http://static.wiki/en/Agartala">Agartala</a>, in the Indian state of <a
+                  href="http://static.wiki/en/Tripura">Tripura</a>. The outcry and unrest over Mujib's
+              arrest and the charge of sedition against him destabilised East Pakistan amidst large protests
+              and strikes. Various Bengali political and student groups added demands to address the issues of
+              students, workers and the poor, forming a larger "11-point plan." The government caved to the
+              mounting pressure, dropped the charges on 22 February 1969 and unconditionally released Mujib
+              the following day. He returned to East Pakistan as a public hero. He was given a mass reception
+              on 23 February, at Racecourse ground and conferred with the title <em>Bangabandhu</em>, meaning
+              <em>Friend of the Bengal</em> in Bengali.</p>
+            <p>Joining an all-parties conference convened by <a
+                href="http://static.wiki/en/Ayub_Khan_(general)">Ayub Khan</a>, President of Pakistan, in
+              1969, Mujib demanded the acceptance of his six points and the demands of other political parties
+              and walked out following its rejection. On 5 December 1969 Mujib made a declaration at a public
+              meeting, held to observe the death anniversary of Suhrawardy, that henceforth East Pakistan
+              would be called "Bangladesh":</p>
+            <p>There was a time when all efforts were made to erase the word "Bangla" from this land and its
+              map. The existence of the word "Bangla" was found nowhere except in the term Bay of Bengal. I on
+              behalf of Pakistan announce today that this land will be called "Bangladesh" instead of East
+              Pakistan.</p>
+            <p>Mujib's declaration heightened tensions across the country. The West Pakistani politicians and
+              the military began to see him as a separatist leader. His assertion of Bengali cultural and
+              ethnic identity also re-defined the debate over regional autonomy. Many scholars and observers
+              believed the Bengali agitation emphasised the rejection of the <a
+                  href="http://static.wiki/en/Two-Nation_Theory"><em>Two-Nation Theory</em></a> – the case
+              upon which Pakistan had been created – by asserting the <a
+                  href="http://en.wiktionary.org/wiki/ethnocultural" target="_blank"
+                  class="external svelte-jcmbfp">ethno-cultural</a> identity of Bengalis as a nation.
+              Mujib was able to galvanize support throughout East Pakistan, which was home to a majority of
+              the national population, thus making him one of the most powerful political figures in the <a
+                  href="http://static.wiki/en/Indian_subcontinent">Indian subcontinent</a>. It was
+              following his 6-point plan that Mujib was increasingly referred to by his supporters as
+              <em>Bangabandhu</em>.
+            </p>
+            <h3 id="1970_elections_and_civil_disobedience">1970 elections and civil disobedience</h3>
+            <p>
+            <div class="svelte-za6bc3"><img src="../../public/files/Amzad_with_Bangabandhu.jpg"
+                                            alt="Amzad with Bangabandhu" class="svelte-za6bc3">
+              <caption class="svelte-za6bc3"><p>Mujib campaigning in <a
+                  href="http://static.wiki/en/East_Pakistan">East Pakistan</a> before the 1970 general
+                election</p></caption>
+            </div>
+            On 12 November 1970 a major coastal cyclone the, <a href="http://static.wiki/en/1970_Bhola_cyclone">1970
+              Bhola cyclone</a>, struck East Pakistan leaving hundreds of thousands dead and millions
+            displaced. Bengalis were outraged, and unrest began because of what was considered the weak and
+            ineffective response of the central government to the disaster. Public opinion and political parties
+            in East Pakistan blamed the governing authorities as intentionally negligent. The West Pakistani
+            politicians attacked the Awami League for allegedly using the crisis for political gain. The
+            dissatisfaction led to divisions within the civil services, police and Pakistani Armed Forces.</p>
+            <p>In the Pakistani general elections held on 7 December 1970, the Awami League under Mujib's
+              leadership won a massive majority in the provincial legislature, and all but two of East
+              Pakistan's quota of seats in the new <a
+                  href="http://static.wiki/en/National_Assembly_of_Pakistan">National Assembly of
+                Pakistan</a>, thus forming a clear majority.</p>
+            <p>The largest and most successful party in the western wing of the nation was the <a
+                href="http://static.wiki/en/Pakistan_Peoples_Party">Pakistan Peoples Party</a> (PPP) headed
+              by <a href="http://static.wiki/en/Zulfikar_Ali_Bhutto">Zulfikar Ali Bhutto</a>. He was
+              completely opposed to Mujib's demand for greater autonomy. Bhutto threatened to boycott the
+              assembly and oppose the government if Mujib was invited by <a
+                  href="http://static.wiki/en/Yahya_Khan">Yahya Khan</a> (then president of Pakistan) to
+              form the next government and demanded inclusion of the PPP. Much of the Pakistani military and
+              the Islamic political parties opposed Mujib becoming Pakistan's prime minister. At the time
+              neither Mujib nor the Awami League had explicitly advocated political independence for East
+              Pakistan, but smaller nationalist groups were demanding independence for <em>Bangladesh</em>.
+            </p>
+            <p>Bhutto feared civil war, and sent a secret message to Mujib and his inner circle to arrange a
+              meeting with them. <a href="http://static.wiki/en/Mubashir_Hassan">Mubashir Hassan</a> met with
+              Mujib and persuaded him to form a coalition government with Bhutto. They decided that Bhutto
+              would serve as president, with Mujib as Prime Minister. These developments took place secretly
+              and no Pakistan Armed Forces personnel were kept informed. Meanwhile, Bhutto increased the
+              pressure on Yahya Khan to take a stand on dissolving the government.</p>
+            <h2 class="svelte-13e8sj1" id="Establishment_of_Bangladesh">Establishment of Bangladesh</h2>
+            <p>Following political deadlock, Yahya Khan delayed the convening of the assembly – a move seen by
+              Bengalis as a plan to deny Mujib's party, which formed a majority, from taking charge. It was on
+              7 March 1971 that Mujib called for independence and asked the people to launch a major campaign
+              of civil disobedience and organized armed resistance at a mass gathering of people held at the
+              <a href="http://static.wiki/en/Suhrawardy_Udyan">Race Course Ground</a> in Dhaka.</p>
+            <p>The struggle now is the struggle for our emancipation; the struggle now is the struggle for our
+              independence. Joy Bangla!..Since we have given blood, we will give more blood. God-willing, the
+              people of this country will be liberated ... Turn every house into a fort. Face (the enemy) with
+              whatever you have. (For more info, see: <a
+                  href="http://static.wiki/en/7th_March_Speech_of_Sheikh_Mujibur_Rahman"><em>7th March
+                Speech of Sheikh Mujibur Rahman</em></a>)</p>
+            <p>Following a last-ditch attempt to foster agreement, Yahya Khan declared martial law, banned the
+              Awami League and ordered the Pakistan Army to arrest Mujib and other Bengali leaders and
+              activists. The Army launched <a href="http://static.wiki/en/Operation_Searchlight">Operation
+                Searchlight</a> to curb the political and civil unrest, fighting the nationalist militias
+              that were believed to have received training in India. Speaking on radio even as the army began
+              its crackdown, Mujib asked his fellows to create resistance against the Army occupation by
+              telegraph at midnight on 26 March 1971:</p>
+            <p>"[The] Pakistan Army have suddenly attacked the Pilkhana EPR Headquarter and the Rajarbag Police
+              Line as well as killed many innocents in Dhaka. The battle has started in various places of
+              Dhaka and Chittagong. I am asking help to all the nations of this world. Our freedom fighters
+              are valiantly fighting against the foes to save their motherland. In the name of Almighty Allah
+              my last request and order to you all is to fight for independence till death. Ask your brothers
+              of Police, EPR, Bengal Regiment and Ansar to fight with you. No compromise, the victory is ours.
+              Execute the last foe from our holy motherland. Carry my message to all the leaders, activists
+              and the other patriots from the every corner of the country. May Allah bless you all. Joy
+              Bangla."</p>
+            <ul>
+              <li>from Shadhinota Shongrame Bangali by Aftab Ahmad</li>
+            </ul>
+            <p>Mujib was arrested and taken to West Pakistan after midnight from <a
+                href="http://static.wiki/en/Tejgaon_Airport">Tejgaon Airport</a> on a <a
+                href="http://static.wiki/en/Pakistan_Air_Force">PAF</a> <a
+                href="http://static.wiki/en/Lockheed_C-130_Hercules">C-130</a> flight right under the noses
+              of ATC Officer Squadron Leader Khaja, Senior Operations Officer Wing Commander <a
+                  href="http://static.wiki/en/Khademul_Bashar">Khademul Bashar</a> and Director of Airport
+              and Flight Security Squadron Leader <a href="http://static.wiki/en/M._Hamidullah_Khan">M.
+                Hamidullah Khan</a>. All were on duty that night due to the state of emergency. Mujib was
+              moved to West Pakistan and kept under heavy guard in a jail near <a
+                  href="http://static.wiki/en/Faisalabad">Faisalabad</a> (then Lyallpur). Many other
+              League politicians avoided arrest by fleeing to India and other countries. Pakistani General <a
+                  href="http://static.wiki/en/Rahimuddin_Khan">Rahimuddin Khan</a> was appointed to
+              preside over Mujib's military court case in Faisalabad, the proceedings of which have never been
+              made public.</p>
+            <p>The Army's campaign to restore order soon degenerated into a rampage of terror and bloodshed.
+              With militias known as <a href="http://static.wiki/en/Razakars_(Pakistan)">Razakars</a>, the
+              army targeted Bengali intellectuals, politicians and union leaders, as well as ordinary
+              civilians. Due to the deteriorating situation, large numbers of Hindus fled across the border to
+              the neighbouring Indian states of <a href="http://static.wiki/en/West_Bengal">West Bengal</a>,
+              <a href="http://static.wiki/en/Assam">Assam</a> and <a href="http://static.wiki/en/Tripura">Tripura</a>.
+              The East Bengali army and police regiments soon <a
+                  href="http://static.wiki/en/mutiny">revolted</a> and League leaders formed a <a
+                  href="http://static.wiki/en/Provisional_Government_of_Bangladesh">government in
+                exile</a> in Kolkata under <a href="http://static.wiki/en/Tajuddin_Ahmad">Tajuddin Ahmad</a>,
+              a politician close to Mujib. A major insurgency led by the <a
+                  href="http://static.wiki/en/Mukti_Bahini">Mukti Bahini</a> (<em>Freedom Fighters</em>)
+              arose across East Pakistan. Despite international pressure, the Pakistani government refused to
+              release Mujib and negotiate with him. Most of the Mujib family was kept under house arrest
+              during this period. General Osmani was the key military commanding officer in the Mukti Bahini,
+              which was a part of the struggle between the state forces and the nationalist militia during the
+              war that came to be known as the Bangladesh Liberation War. Following Indian intervention in
+              December, the <a href="http://static.wiki/en/Indo-Pakistani_War_of_1971">Indo-Pakistani War of
+                1971</a>, the Pakistani Army <a
+                  href="http://static.wiki/en/Pakistani_Instrument_of_Surrender">surrendered to the joint
+                force</a> of Bengali Mukti Bahini and the Indian Army, and the League leadership created a
+              government in Dhaka which was called the <em>Mujibnagar Government</em>.</p>
+            <p>Upon assuming the presidency after Yahya Khan's resignation, Zulfikar Ali Bhutto responded to
+              international pressure and released Mujib on 8 January 1972. After release from prison, Bhutto
+              and Mujib met in <a href="http://static.wiki/en/Rawalpindi">Rawalpindi</a>. In that meeting,
+              Bhutto proposed some links between Pakistan and Bangladesh. However Mujib said he could not
+              commit to anything until he visited Bangladesh and talked to his colleagues. He was then flown
+              to London where he met with <a href="http://static.wiki/en/British_Prime_Minister">British Prime
+                Minister</a> <a href="http://static.wiki/en/Edward_Heath">Edward Heath</a> and addressed the
+              international media at <a href="http://static.wiki/en/Claridge&#39;s_Hotel">Claridge's Hotel</a>.
+              Mujib then flew to <a href="http://static.wiki/en/New_Delhi">New Delhi</a> on a Royal Air Force
+              (RAF) jet aircraft provided by the British government to take him back to Dhaka. In New Delhi,
+              he was received by <a href="http://static.wiki/en/Indian_President">Indian President</a> <a
+                  href="http://static.wiki/en/Varahagiri_Venkata_Giri">Varahagiri Venkata Giri</a> and <a
+                  href="http://static.wiki/en/Prime_Minister_of_India">Prime Minister of India</a> <a
+                  href="http://static.wiki/en/Indira_Gandhi">Indira Gandhi</a> as well as the entire
+              Indian cabinet and chiefs of armed forces. Delhi was given a festive look as Mujib and Gandhi
+              addressed a huge crowd where he publicly expressed his gratitude to Gandhi and "the best friends
+              of my people, the people of India". "From New Delhi, Sheikh Mujib flew back to Dhaka on the RAF
+              jet where he was received by a massive and emotional sea of people at Tejgaon Airport."</p>
+            <h3 id="Struggle_for_national_reconstruction">Struggle for national reconstruction</h3>
+            <p>
+            <div class="svelte-za6bc3"><img src="/Mujib_and_Ford.jpg"
+                                            alt="Mujib and Ford" class="svelte-za6bc3">
+              <caption class="svelte-za6bc3"><p>Mujib, Prime Minister of Bangladesh, with U.S. President <a
+                  href="http://static.wiki/en/Gerald_Ford">Gerald Ford</a> in 1974</p></caption>
+            </div>
+            Mujib briefly assumed the provisional presidency and later took office as the prime minister.</p><p>
+              A new country, Bangladesh, begins with a lot of "rampage and rape of Bangladesh economy" by the
+              Pakistani occupation force. In January 1972 <a href="http://static.wiki/en/Time_(magazine)"><em>Time</em></a>
+              magazine reported:</p>
+            <p>In the aftermath of the Pakistani army's rampage last March, a special team of inspectors from
+              the World Bank observed that some cities looked "like the morning after a nuclear attack." Since
+              then, the destruction has only been magnified. An estimated 6,000,000 homes have been destroyed,
+              and nearly 1,400,000 farm families have been left without tools or animals to work their lands.
+              Transportation and communications systems are totally disrupted. Roads are damaged, bridges out
+              and inland waterways blocked. The rape of the country continued right up until the Pakistani
+              army surrendered a month ago. In the last days of the war, West Pakistani-owned businesses—which
+              included nearly every commercial enterprise in the country—remitted virtually all their funds to
+              the West. Pakistan International Airlines left exactly 117 rupees ($16) in its account at the
+              port city of Chittagong. The army also destroyed bank notes and coins, so that many areas now
+              suffer from a severe shortage of ready cash. Private cars were picked up off the streets or
+              confiscated from auto dealers and shipped to the West before the ports were closed.</p>
+            <p>The politicians elected in 1970 formed the provisional <a
+                href="http://static.wiki/en/Jatiyo_Sangshad">Jatiyo Sangshad</a> (parliament) of the new
+              state. The Mukti Bahini and other militias amalgamated to form a new <a
+                  href="http://static.wiki/en/Bangladesh_Army">Bangladesh Army</a> to which Indian forces
+              transferred control on 17 March. Mujib described the fallout of the war as the "biggest human
+              disaster in the world," claiming the deaths of as many as 3 million people and the rape of more
+              than 200,000 women.</p>
+            <p>Although the state was committed to <a href="http://static.wiki/en/secularism">secularism</a>,
+              Mujib soon began moving closer to <a href="http://static.wiki/en/Political_aspects_of_Islam">political
+                Islam</a> through state policies as well as personal conduct. He revived the <a
+                  href="http://static.wiki/en/Islamic_Foundation_Bangladesh">Islamic Academy</a> (which
+              had been <a href="http://static.wiki/en/Prohibition">banned</a> in 1972 for suspected collusion
+              with Pakistani forces) and banned the production and sale of <a
+                  href="http://static.wiki/en/alcohol_(drug)">alcohol</a> and banned the practice of <a
+                  href="http://static.wiki/en/gambling">gambling</a>, which had been one of the major
+              demands of Islamic groups. In his public appearances and speeches, Mujib made increased usage of
+              Islamic greetings, slogans, and references to Islamic ideologies. In his final years, Mujib
+              largely abandoned his trademark "Joy Bangla" salutation for '<a
+                  href="http://static.wiki/en/Khuda_Hafez">Khuda Hafez</a>' preferred by religious
+              Muslims. He also declared a common amnesty to the suspected war criminals, on some conditions,
+              to get the support of far right groups as the communists were not happy with Mujib's regime. He
+              declared, "I believe that the brokers, who assisted the Pakistanis during the liberation war has
+              realized their faults. I hope they will involve themselves in the development of the country
+              forgetting all their misdeeds. Those who were arrested and jailed in the Collaborator act should
+              be freed before the 16 December 1974". He charged the provisional parliament in order to <a
+                  href="http://static.wiki/en/Constitution_of_Bangladesh">write a new constitution</a>,
+              and proclaimed the four fundamental principles of "nationalism, secularism, democracy, and
+              socialism," which would come to be known as "Mujibism". Mujib <a
+                  href="http://static.wiki/en/nationalised">nationalised</a> hundreds of industries and
+              companies as well as abandoned land and capital and initiated <a
+                  href="http://static.wiki/en/land_reform">land reform</a> aimed at helping millions of
+              poor farmers. A constitution was proclaimed in 1973 and <a
+                  href="http://static.wiki/en/Elections_in_Bangladesh">elections were held</a>, which
+              resulted in Mujib and his party gaining power with an absolute majority. He further outlined
+              state programs to expand primary <a href="http://static.wiki/en/education_in_Bangladesh">education
+                in Bangladesh</a>, sanitation, food, healthcare, water and electric supply across the
+              country.</p>
+            <h3 id="Economic_policies">Economic policies</h3>
+            <p>The Mujib government faced serious challenges, which including the rehabilitation of millions of
+              people displaced in 1971, organising the supply of food, health aids and other necessities. The
+              effects of the 1970 cyclone had not worn off, and the <a
+                  href="http://static.wiki/en/economy_of_Bangladesh">economy of Bangladesh</a> had been
+              immensely deteriorated by the conflict. Economically, Mujib embarked on a huge nationalization
+              program. By the end of the year, thousands of Bengalis arrived from Pakistan, and thousands of
+              non-Bengalis migrated to Pakistan; and yet many thousand remained in <a
+                  href="http://static.wiki/en/refugee_camp">refugee camps</a>. Major efforts were launched
+              to rehabilitate an estimated 10 million refugees. The economy began recovering and a <a
+                  href="http://static.wiki/en/famine">famine</a> was prevented. A five-year plan released
+              in 1973 focused state investments into agriculture, rural infrastructure and <a
+                  href="http://static.wiki/en/cottage_industry">cottage industries</a>. But a <a
+                  href="http://static.wiki/en/Bangladesh_famine_of_1974">famine occurred in 1974</a> when
+              the price of rice rose sharply. In that month there was "widespread starvation started in <a
+                  href="http://static.wiki/en/Rangpur_district">Rangpur district</a>. Government
+              mismanagement had been blamed for that." During the Mujib regime the country witnessed,
+              industrial decline, growing <a href="http://static.wiki/en/India">Indian</a> control over
+              Bangladesh's industries, and counterfeit money scandals.</p>
+            <h3 id="Foreign_policy">Foreign policy</h3>
+            <p>After Bangladesh achieved recognition from major countries, Mujibur helped Bangladesh enter into
+              the United Nations and the <a href="http://static.wiki/en/Non-Aligned_Movement">Non-Aligned
+                Movement</a>. He travelled to the United States, the United Kingdom and other European
+              nations to obtain humanitarian and developmental assistance. Mujibur maintained close ties with
+              India. He signed the 25-year <a
+                  href="http://static.wiki/en/Indo-Bangladeshi_Treaty_of_Friendship,_Cooperation_and_Peace">Indo-Bangladeshi
+                Treaty of Friendship, Cooperation and Peace</a>, which pledged extensive economic and
+              humanitarian assistance and training from India for Bangladesh's security forces and government
+              personnel. Mujibur forged a close friendship with Indira Gandhi, strongly praising India's
+              decision to intercede, and professed admiration and friendship for India. In the <a
+                  href="http://static.wiki/en/Delhi_Agreement">Delhi Agreement</a> of 1974, Bangladesh,
+              India and Pakistan pledged to work for regional stability and peace. The agreement paved the way
+              for the return of interned Bengali officials and their families stranded in Pakistan, as well as
+              the establishment of diplomatic relations between Dhaka and Islamabad.</p>
+            <p>Mujibur sought Bangladesh's membership in the <a
+                href="http://static.wiki/en/Organisation_of_Islamic_Cooperation">Organisation of the Islamic
+              Conference</a> (OIC), the <a href="http://static.wiki/en/Commonwealth_of_Nations">Commonwealth
+              of Nations</a> and the <a href="http://static.wiki/en/Islamic_Development_Bank">Islamic
+              Development Bank</a>. He made a significant trip to Lahore in 1974 to attend the OIC summit,
+              which helped improve relations with Pakistan.</p>
+            <p>Mujibur was invited to Washington DC and Moscow for talks with American and <a
+                href="http://static.wiki/en/Soviet">Soviet</a> leaders. He declared that Bangladesh would be
+              the "Switzerland of the East", meaning that Bangladesh would remain <a
+                  href="http://static.wiki/en/non-partisan">non-partisan</a> in the <a
+                  href="http://static.wiki/en/Cold_War">Cold War</a> between the US and the Soviet Union.
+              Many Eastern European countries, particularly <a href="http://static.wiki/en/Yugoslavia">Yugoslavia</a>,
+              <a href="http://static.wiki/en/East_Germany">East Germany</a> and <a
+                  href="http://static.wiki/en/Poland">Poland</a>, enjoyed excellent relations with
+              Bangladesh. The <a href="http://static.wiki/en/Soviet_Union">Soviet Union</a> supplied several
+              squadrons of <a href="http://static.wiki/en/MiG-21">MiG-21</a> planes for the Bangladesh Air
+              Force.</p>
+            <p>Japan became a major aid provider to the new country. Although <a
+                href="http://static.wiki/en/Israel">Israel</a> was one of the first countries to recognize
+              Bangladesh, Bangladesh strongly supported <a href="http://static.wiki/en/Egypt">Egypt</a> during
+              the <a href="http://static.wiki/en/Arab-Israeli_War_of_1973">Arab-Israeli War of 1973</a>. In
+              return, Egypt gave Bangladesh's military 44 tanks.</p>
+            <h3 id="Left_wing_insurgency">Left wing insurgency</h3>
+            <p>At the height of Mujib's power, <a href="http://static.wiki/en/left_wing">left wing</a>
+              insurgents, organized by the <a href="http://static.wiki/en/Jatiya_Samajtantrik_Dal">Jatiya
+                Samajtantrik Dal</a> party's armed wing, <a href="http://static.wiki/en/Gonobahini">Gonobahini</a>,
+              fought against Mujib's government in order to establish a <a
+                  href="http://static.wiki/en/Marxist">Marxist</a> government.</p>
+            <p>The government responded by forming an elite <a
+                href="http://static.wiki/en/para-military">para-military</a>
+              force, the <a href="http://static.wiki/en/Jatiya_Rakkhi_Bahini">Jatiya Rakkhi Bahini</a>, on 8
+              February 1972, initially formed to curb the insurgency and maintain law and order. The force
+              began a campaign of brutal <a href="http://static.wiki/en/human_rights_abuses">human rights
+                abuses</a> against the general populace, including becoming involved in numerous <a
+                  href="http://static.wiki/en/Human_rights_abuse">charges of human rights abuse</a>
+              including political killings, shootings by <a href="http://static.wiki/en/death_squads">death
+                squads</a>, and rape. Members of the Jatiya Rakkhi Bahini were granted immunity from
+              prosecution and other legal proceedings. The force swore an oath of loyalty to Mujibur.</p>
+            <h3 id="BAKSAL">BAKSAL</h3>
+            <p>Mujib's government soon began encountering increased dissatisfaction and unrest. His programs of
+              nationalization and industrial socialism suffered from lack of trained personnel, inefficiency,
+              rampant corruption, and poor leadership. Mujib focused almost entirely on national issues and
+              thus neglected local issues and government. The party and central government exercised full
+              control and democracy was weakened, with virtually no elections organized at the grass roots or
+              local levels. Political opposition included communists as well as <a
+                  href="http://static.wiki/en/Islamic_fundamentalism">Islamic fundamentalists</a>, who
+              were angered by the declaration of a secular state. Mujib was criticized for <a
+                  href="http://static.wiki/en/nepotism">nepotism</a> in appointing family members to
+              important positions. Intense criticism of Mujib arose over the lack of political leadership, a
+              flawed pricing policy, and rising inflation amidst heavy losses suffered by the nationalized
+              industries. Mujib's ambitious social programs performed poorly, owing to scarcity of resources,
+              funds, and personnel, and caused unrest amongst the masses.</p>
+            <p>The <a href="http://static.wiki/en/Bangladesh_famine_of_1974">1974 famine</a> further intensified
+              the food crisis, and devastated agriculture – the mainstay of the economy. The famine had
+              personally shocked Mujib and profoundly affected his views on governance, while political unrest
+              gave rise to increasing violence. During the famine, between 70,000 and 1.5 million people died
+              (Note: Reports vary).</p>
+            <p>In response, he began increasing his powers. In 1974, Mujib declared a <a
+                href="http://static.wiki/en/state_of_emergency">state of emergency</a>. On 25 January 1975,
+              the
+              <a href="http://static.wiki/en/Amendments_to_the_Constitution_of_Bangladesh#Fourth_amendment">Fourth
+                Amendment to the Constitution of Bangladesh</a> was passed, replacing the parliamentary
+              system with a presidential system, reducing the power of the <a
+                  href="http://static.wiki/en/Jatiya_Sangsad">National Parliament</a> and <a
+                  href="http://static.wiki/en/Supreme_Court_of_Bangladesh">Supreme Court</a>, and
+              codifying a <a href="http://static.wiki/en/One-party_state">One-party state</a> into law.</p>
+            <p>On 24 February 1975, Mujib formed a new party, On 7 June 1975, Mujib's political supporters in
+              his party and a few others amalgamated to form the only legal political party, the <a
+                  href="http://static.wiki/en/Bangladesh_Krishak_Sramik_Awami_League">Bangladesh Krishak
+                Sramik Awami League</a>, commonly known by its initials—BaKSAL. All MPs were required to
+              join BaKSAL. The party identified itself with the rural masses, farmers, and labourers and took
+              control of all mechanisms of government. It also launched major socialist programs. Under this
+              new system, Sheikh Mujib assumed the presidency and was given extraordinary powers. According to
+              <a href="http://static.wiki/en/Time_(magazine)"><em>Time</em></a> magazine:</p>
+            <p>Under the new system, executive powers are vested in the President, who will be elected directly
+              every five years, and in a Council of Ministers appointed by him. Although an elected Parliament
+              can pass legislation, the President has veto power and can dissolve Parliament indefinitely.
+              BaKSAL was protested by different groups but they were punished by Mujib. It was known that
+              Sheikh Mujib never accepted any criticism against him. Mujib was widely accused of the 40,000
+              killings by the Jatiya Rakkhi Bahini militia. Using government forces and his existing militia
+              of supporters called the <a href="http://static.wiki/en/Jatiyo_Rakkhi_Bahini">Jatiyo Rakkhi
+                Bahini</a>, Mujib oversaw the arrest of opposition activists and strict control of political
+              activities across the country.</p>
+            <h2 class="svelte-13e8sj1" id="Assassination">Assassination</h2>
+            <p>On 15 August 1975, a group of junior army officers invaded the presidential residence with tanks
+              and killed Mujib, his family and personal staff. Only his daughters <a
+                  href="http://static.wiki/en/Sheikh_Hasina">Sheikh Hasina</a> and Sheikh Rehana, who were
+              visiting West Germany at the time, escaped. They were banned from returning to Bangladesh. The
+              coup was planned by disgruntled Awami League colleagues and military officers, which included
+              Mujib's colleague and former confidante <a href="http://static.wiki/en/Khondaker_Mostaq_Ahmad">Khondaker
+                Mostaq Ahmad</a>, who became his immediate successor. There was intense speculation in the
+              media accusing the U.S. <a href="http://static.wiki/en/Central_Intelligence_Agency">Central
+                Intelligence Agency</a> of having instigated the plot. Lawrence Lifschultz has alleged that
+              the CIA was involved in the coup and assassination, basing his assumption on statements by the
+              then-U.S. ambassador in Dhaka, Eugene Booster.</p>
+            <p>Mujib's death plunged the nation into a political turmoil. The coup leaders were soon overthrown
+              and a series of counter-coups and political assassinations paralyzed the country. Order was
+              largely restored after a coup in 1976 that gave control to the army chief <a
+                  href="http://static.wiki/en/Ziaur_Rahman">Ziaur Rahman</a>. Declaring himself President
+              in 1978, Ziaur Rahman signed the <a href="http://static.wiki/en/Indemnity_Act,_Bangladesh">Indemnity
+                Ordinance</a>, giving immunity from prosecution to the men who plotted Mujib's assassination
+              and overthrow.</p>
+            <p>Sheikh Hasina had returned and herself became Prime Minister. She overturned the immunity decree
+              and in 1998 a dozen army officers, including <a href="http://static.wiki/en/Abdul_Majed">Abdul
+                Majed</a>, were sentenced to death. The <a
+                  href="http://static.wiki/en/Supreme_Court_of_Bangladesh">Supreme Court of Bangladesh</a>
+              upheld the verdict and five of them were hanged. On 12 April 2020, the former army officer,
+              Abdul Majed, was found in hiding and also executed for the assassination of Mujibur Rahman.</p>
+            <h2 class="svelte-13e8sj1" id="Personal_life,_family,_and_relatives">Personal life, family, and
+              relatives</h2>
+            <p>Mujibur was 13 years old when he married his paternal cousin Fazilatunnesa who was only three and
+              had just lost her parents, so her (and Mujibur's) grandfather, Sheikh Abdul Hamid, had commanded
+              his son Sheikh Lutfar Rahman to marry his son Mujibur to her. It was 9 years later, in 1942,
+              when Mujibur was 22 years old and Begum Fazilatunnesa was 12 years old that the marriage was
+              consummated. Together they had two daughters—<a href="http://static.wiki/en/Sheikh_Hasina">Sheikh
+                Hasina</a> and <a href="http://static.wiki/en/Sheikh_Rehana">Sheikh Rehana</a>—and three
+              sons—<a href="http://static.wiki/en/Sheikh_Kamal">Sheikh Kamal</a>, <a
+                  href="http://static.wiki/en/Sheikh_Jamal">Sheikh Jamal</a>, and Sheikh Rasel. Kamal was
+              an organizer of the Mukti Bahini guerrilla struggle in 1971 and received a <a
+                  href="http://static.wiki/en/Battlefield_promotion">wartime commission</a> in the
+              Bangladesh Army during the Liberation War. He was perceived to be the successor to Mujibur.
+              Jamal was trained at the <a href="http://static.wiki/en/Royal_Military_Academy_Sandhurst">Royal
+                Military Academy Sandhurst</a> in Great Britain and later joined the <a
+                  href="http://static.wiki/en/Bangladesh_Army">Bangladesh Army</a> as a <a
+                  href="http://static.wiki/en/Commissioned_Officer#Commissioned_officers">Commissioned
+                Officer</a>. The <a href="http://static.wiki/en/Sheikh%E2%80%93Wazed_family">Sheikh
+                family</a> was under house arrest during the Bangladesh Liberation War until 17 December,
+              Sheikh Kamal and Jamal found the means to escape and cross over to a liberated zone, where they
+              joined the struggle to free the country. Almost the entire Sheikh family was assassinated on 15
+              August 1975 during a military coup d'état. Only <a href="http://static.wiki/en/Sheikh_Hasina">Sheikh
+                Hasina</a> and <a href="http://static.wiki/en/Sheikh_Rehana">Sheikh Rehana</a>, who were
+              visiting <a href="http://static.wiki/en/West_Germany">West Germany</a>, escaped. Mujibur is the
+              maternal grandfather of <a href="http://static.wiki/en/Tulip_Siddiq">Tulip Siddiq</a>,
+              British-born Labour politician, and member of parliament for Hampstead and Kilburn since the
+              2015 UK general election. His nephews <a href="http://static.wiki/en/Sheikh_Helal_Uddin">Sheikh
+                Helal</a>, <a href="http://static.wiki/en/Sheikh_Selim">Sheikh Selim</a>, <a
+                  href="http://static.wiki/en/Sheikh_Salahuddin_Jewel">Sheikh Jewel</a>, and <a
+                  href="http://static.wiki/en/Abul_Hasanat_Abdullah">Abul Hasanat Abdullah</a> are members
+              of parliament in <a href="http://static.wiki/en/Bangladesh">Bangladesh</a>. His grandnephews <a
+                  href="http://static.wiki/en/Sheikh_Fazle_Noor_Taposh">Sheikh Taposh</a>, <a
+                  href="http://static.wiki/en/Mujibur_Rahman_Chowdhury">Nixon Chowdhury</a>, <a
+                  href="http://static.wiki/en/Noor-E-Alam_Chowdhury_Liton">Liton Chowdhury</a>, <a
+                  href="http://static.wiki/en/Andaleeve_Rahman">Andaleeve Rahman Partho</a>, <a
+                  href="http://static.wiki/en/Sheikh_Tonmoy">Sheikh Tonmoy</a>, <a
+                  href="http://static.wiki/en/Serniabat_Sadiq_Abdullah">Serniabat Sadiq Abdullah</a>, and
+              Sheikh Parash are all Bangladeshi politicians. His grandniece, <a
+                  href="http://static.wiki/en/Dipu_Moni">Dipu Moni</a>, is the former <a
+                  href="http://static.wiki/en/Foreign_Minister_of_Bangladesh">Foreign Minister of
+                Bangladesh</a>.</p>
+            <h3 id="Bangladesh">Bangladesh</h3>
+            <p>
+            <div class="svelte-za6bc3"><img
+                src="../../public/files/The_Father_of_The_Nation_places_in_gopalganj.jpeg"
+                alt="The Father of The Nation places in gopalganj" class="svelte-za6bc3">
+              <caption class="svelte-za6bc3"><p>Gopalganj</p></caption>
+            </div>
+            <div class="svelte-za6bc3"><img
+                src="../../public/files/Bangabandhu_Square_Monument.A.M.R.jpg"
+                alt="Bangabandhu Square Monument.A.M.R" class="svelte-za6bc3">
+              <caption class="svelte-za6bc3"><p>The Bangabandhu Square Monument</p></caption>
+            </div>
+            Mujibur has been depicted on Bangladeshi currency, <a href="http://static.wiki/en/Taka">Taka</a> and
+            is the namesake of <a href="http://static.wiki/en/List_of_things_named_after_Sheikh_Mujibur_Rahman">many
+              Bangladesh public institutions</a>.</p><p>During Mujibur's tenure as the premier leader, Muslim
+              religious leaders and some politicians intensely criticized Mujibur's adoption of state
+              secularism. He alienated some nationalist segments, and those in the military who feared
+              Bangladesh would become too dependent on India. They worried about becoming a <a
+                  href="http://static.wiki/en/satellite_state">satellite state</a> by taking extensive aid
+              from the Indian government and allying with that country on many foreign and regional affairs.
+              Mujibur's imposition of one-party rule, suppression of political opposition with censorship and
+              abuse of the judiciary, also alienated large segments of the population. Historians and
+              political scientists think that it derailed Bangladesh's development as a democratic state,
+              contributing to its subsequent political instability and violence. The economy also collapsed
+              due to widespread corruption in the same period. <a
+                  href="http://static.wiki/en/Lawrence_Lifschultz">Lawrence Lifschultz</a> wrote in the
+              magazine, <a href="http://static.wiki/en/Far_Eastern_Economic_Review"><em>Far Eastern Economic
+                Review</em></a>, in 1974 that Bangladeshis considered "the corruption and malpractices and
+              plunder of national wealth" "unprecedented".</p>
+            <p><a href="http://static.wiki/en/Zafrullah_Chowdhury">Zafrullah Chowdhury</a> asserts that Mujibur
+              himself was a major impediment to the fulfilment of those aspirations of the liberation,
+              although he admits that he was a "great leader."</p>
+            <p>Following his assassination, succeeding governments offered low-key commemorations of Mujibur.
+              Restoration of his public image awaited the election of an Awami League government in 1996,
+              which was led by his eldest daughter, <a href="http://static.wiki/en/Sheikh_Hasina">Sheikh
+                Hasina</a>, the leader of the party. 15 August has since been commemorated as "National
+              Mourning Day". The country keeps it flags lowered to half-mast in this day as a sign of
+              mourning. In 2016, the Awami League government passed a law that criminalized any criticism of
+              Mujibur Rahman.</p>
+            <p>Despite controversy and disagreement among politicians, Mujibur remains a popular figure in
+              Bangladesh. In a 2004 <a href="http://static.wiki/en/BBC_Bengali">BBC <a
+                  href="http://static.wiki/en/Bengali_people">Bengali</a></a> opinion poll, Mujibur was
+              voted as the "Greatest Bengali of All Time". The style of <a
+                  href="http://static.wiki/en/waistcoat">waistcoat</a> that Mujibur wore during his
+              political campaign is called a <a href="http://static.wiki/en/Mujib_Coat">Mujib Coat</a>
+              (Bangla: মুজিব কোট) in Bangladesh.</p>
+            <h3 id="Worldwide">Worldwide</h3>
+            <p>
+            <div class="svelte-za6bc3"><img
+                src="../../public/files/Sheikh_Mujibur_Rahman_2020_stamp_of_India.jpg"
+                alt="Sheikh Mujibur Rahman 2020 stamp of India" class="svelte-za6bc3">
+              <caption class="svelte-za6bc3">
+                <p>Mujibur on a 2020 stamp of India</p>
+              </caption>
+            </div>
+            </p>
+            <ul>
+              <li>After one year of independence and Mujib rule, <em>Time</em> magazine wrote:</li>
+              <li>Cuban leader <a href="http://static.wiki/en/Fidel_Castro">Fidel Castro</a> compared Mujib's
+                personality with the <a href="http://static.wiki/en/Himalaya">Himalayas</a> during the
+                Non-Aligned Summit in 1973.
+              </li>
+              <li><em>Time</em> magazine wrote ten days after his death:</li>
+              <li>In 2003, author David Ludden describe him as a "Forgotten Hero" in an article on <a
+                  href="http://static.wiki/en/Frontline_(magazine)"><em>Frontline</em></a>.
+              </li>
+              <li>On 30 October 2017, <a href="http://static.wiki/en/UNESCO">UNESCO</a> recognised Mujib's 7
+                March Speech as part of the world's documentary heritage.
+              </li>
+              <li>There is an avenue named after him in <a href="http://static.wiki/en/Ankara">Ankara</a>,
+                Turkey.
+              </li>
+            </ul>
+            <p>"In sum, Bangladesh had little reason to enjoy a happy first birthday. If it is not the "basket
+              case" that Henry Kissinger once called it, neither has it become the Shonar Bangla (Golden
+              Bengal) envisioned by Mujib. How much this is the fault of Mujib is a moot question. It is true
+              that he has had little time in which to combat some of Bangladesh's immense problems.
+              Nevertheless, some critics contend that he has wasted some time playing the role of popular
+              revolutionary figure (such as personally receiving virtually any of his people who call on him)
+              when he should have been concentrating more on serious matters of state. If, as expected, he is
+              elected in March, Mujib will face a clear test of whether he is not only the father of
+              Bangladesh but also its savior."</p>
+            <p>"Mujib returned to the most tumultuous welcome Dacca had ever seen—and a staggering array of
+              problems in probably the poorest (and most densely populated) country on earth. There were
+              virtually no civil servants and little industry. Ports were clogged, railroads destroyed, the
+              educated elite savaged. Worse, what had not been destroyed in war was soon destroyed by a
+              devastating drought in 1973 and floods last year that inundated three-quarters of the
+              country.Laudable Objectives. Facing spreading violence—there had been at least 6,000 political
+              murders since independence—Mujib declared a state of emergency last December. He subsequently
+              banned extremist parties on both the left and the right, brought the press under government
+              control, and cracked down on corruption.The moves met with general favor in Bangladesh, but
+              there were those who were critical. "Do not forget I have had only three years as a free
+              government," he reminded critics. "You cannot expect miracles." Yet even he seemed impatient for
+              miracles in the end. No one ever doubted that his objectives were laudable. Mujib wanted nothing
+              less than to build a "shonar Bangla," the golden Bengal of the poem by Rabindranath Tagore that
+              serves as the country's national anthem."</p>
+            <h2 class="svelte-13e8sj1" id="Bibliography">Bibliography</h2>
+            <p>Sheikh Mujib wrote two volumes of his autobiography, where he expressed his view on politics and
+              described his personal life. Both books were published after his death by his daughter and
+              current Bangladeshi Prime Minister <a href="http://static.wiki/en/Sheikh_Hasina">Sheikh
+                Hasina</a>.</p>
+            <h2 class="svelte-13e8sj1" id="Awards">Awards</h2>
+            <table>
+              <thead>
+              <tr>
+                <th align="center">Prize Name</th>
+                <th align="center">Year</th>
+                <th align="center">Reference</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                <td align="center"><a href="http://static.wiki/en/World_Peace_Council_prizes">Joliot-Curie
+                  Medal of Peace</a></td>
+                <td align="center">1973</td>
+                <td align="center"></td>
+              </tr>
+              <tr>
+                <td align="center"><a href="http://static.wiki/en/Independence_Award">Independence Award</a>
+                </td>
+                <td align="center">2003</td>
+                <td align="center"></td>
+              </tr>
+              <tr>
+                <td align="center"><a href="http://static.wiki/en/Gandhi_Peace_Prize">Gandhi Peace Prize</a>
+                </td>
+                <td align="center">2020</td>
+                <td align="center"></td>
+              </tr>
+              </tbody>
+            </table>
+            <h2 class="svelte-13e8sj1" id="Portrayals">Portrayals</h2>
+            <ul>
+              <li><a href="http://static.wiki/en/Humayun_Ahmed">Humayun Ahmed</a> included Sheikh Mujib in two
+                of his historical novels, 2004's <a
+                    href="http://static.wiki/en/Jochona_O_Jononir_Golpo"><em>Jochona O Jononir
+                  Golpo</em></a> and 2012's <a
+                    href="http://static.wiki/en/Deyal_(novel)"><em>Deyal</em></a>.
+              </li>
+              <li><a href="http://static.wiki/en/Neamat_Imam">Neamat Imam</a>'s novel <a
+                  href="http://static.wiki/en/The_Black_Coat"><em>The Black Coat</em></a> depicts Mujib as
+                a deadliest dictator.
+              </li>
+              <li>In the 2014 Indian film <a href="http://static.wiki/en/Children_of_War_(2014_film)"><em>Children
+                of War</em></a>, Prodip Ganguly portrayed of Sheikh Mujib.
+              </li>
+              <li>In 2015, the <a href="http://static.wiki/en/Centre_for_Research_and_Information">Centre for
+                Research and Information</a> (CRI) department of <a
+                  href="http://static.wiki/en/Bangladesh_Awami_League">Bangladesh Awami League</a>
+                published a four-part children's <a href="http://static.wiki/en/comic_book">comic book</a>
+                named <em>Mujib</em> based on Sheikh Mujib's two autobiographies.
+              </li>
+              <li>In the 2018 documentary film <a
+                  href="http://static.wiki/en/Hasina:_A_Daughter&#39;s_Tale"><em>Hasina: A Daughter's
+                Tale</em></a>, Sheikh Mujib's daughter <a href="http://static.wiki/en/Sheikh_Hasina">Sheikh
+                Hasina</a> spoke about the assassination of her father.
+              </li>
+              <li>On January 21, 2021, <a href="http://static.wiki/en/Bangabandhu_(film)">Bangabandhu</a>, a
+                biopic of Sheikh Mujibur Rahman has begun production.
+              </li>
+            </ul>
+            <h2 class="svelte-13e8sj1" id="External_links">External links</h2>
+            <ul>
+              <li>Bangabandhu Online Museum</li>
+              <li>Sheikh Mujib (1971-1975)</li>
+            </ul>
+            <small
+                style="margin-top: 4em; margin-bottom: 1em; text-align: center; font-size: 10px; color: gray; display: block;">This
+              page was automatically generated from <a
+                  href="https://en.wikipedia.org/wiki/Sheikh%20Mujibur%20Rahman">the original wikipedia
+                article</a>; it is adapted under the <a
+                  href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative
+                Commons Attribution-ShareAlike 3.0 Unported License</a> <a
+                  href="https://creativecommons.org/licenses/by-sa/3.0/">(CC-BY-SA)</a><br>
+              static.wiki is a <a href="https://github.com/segfall/static-wiki">proof-of-concept side
+                project</a>.</small></div>
+        </main>
+      </div>
+    </main>
+    <footer class="svelte-uo038q"></footer>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "HomePage"
+}
+</script>
+
+<style scoped>
+
+</style>
