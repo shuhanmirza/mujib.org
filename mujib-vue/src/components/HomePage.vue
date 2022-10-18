@@ -635,7 +635,7 @@
               believed the Bengali agitation emphasised the rejection of the <a
                   href="https://en.wikipedia.org/wiki/Two-Nation_Theory"><em>Two-Nation Theory</em></a> – the case
               upon which Pakistan had been created – by asserting the <a
-                  href="http://en.wiktionary.org/wiki/ethnocultural" target="_blank"
+                  href="https://en.wiktionary.org/wiki/ethnocultural" target="_blank"
                   class="external svelte-jcmbfp">ethno-cultural</a> identity of Bengalis as a nation.
               Mujib was able to galvanize support throughout East Pakistan, which was home to a majority of
               the national population, thus making him one of the most powerful political figures in the <a
