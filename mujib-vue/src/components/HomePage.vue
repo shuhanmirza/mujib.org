@@ -767,7 +767,7 @@
               jet where he was received by a massive and emotional sea of people at Tejgaon Airport."</p>
             <h3 id="Struggle_for_national_reconstruction">Struggle for national reconstruction</h3>
             <p>
-            <div class="svelte-za6bc3"><img src="/Mujib_and_Ford.jpg"
+            <div class="svelte-za6bc3"><img src="../../public/files/Mujib_and_Ford.jpg"
                                             alt="Mujib and Ford" class="svelte-za6bc3">
               <caption class="svelte-za6bc3"><p>Mujib, Prime Minister of Bangladesh, with U.S. President <a
                   href="https://en.wikipedia.org/wiki/Gerald_Ford">Gerald Ford</a> in 1974</p></caption>
